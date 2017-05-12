@@ -1,6 +1,6 @@
 # Awesome Robotics
 
-Links to tools and info that is useful for robots in one way or another.
+Links that are useful for robots.
 
 Simulators
 ----------
