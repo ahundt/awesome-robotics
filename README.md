@@ -48,20 +48,6 @@ Robot Operating System (ROS)
 - [ros2/design](https://github.com/ros2/design) - Design documentation for ROS 2.0 effort.
 
 
-Simultaneous Localization and Mapping (SLAM)
---------------------------------------------
-
-- [ElasticFusion](https://github.com/mp3guy/ElasticFusion) - Real-time dense visual SLAM system.
-- [Google Cartographer](https://github.com/googlecartographer/cartographer/) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
-- [OctoMap](https://github.com/OctoMap/octomap) - An Efficient Probabilistic 3D Mapping Framework Based on Octrees. Contains the main OctoMap library, the viewer octovis, and dynamicEDT3D.
-- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities.
-
-Point Clouds
-------------
-
-- [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) - An "Iterative Closest Point" library robotics and 2-D/3-D mapping.
-
-
 Kinematics, Dynamics, Constrained Optimization
 ----------------------------------------------
 
@@ -98,3 +84,17 @@ Geometry
 - [Boost.QVM](https://github.com/boostorg/qvm) - Quaternions, Vectors, Matrices library for Boost.
 
 
+Point Clouds
+------------
+
+- [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) - An "Iterative Closest Point" library robotics and 2-D/3-D mapping.
+- [Point Cloud Library (pcl)](https://github.com/PointCloudLibrary/pcl) - The Point Cloud Library (PCL) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
+
+
+Simultaneous Localization and Mapping (SLAM)
+--------------------------------------------
+
+- [ElasticFusion](https://github.com/mp3guy/ElasticFusion) - Real-time dense visual SLAM system.
+- [Google Cartographer](https://github.com/googlecartographer/cartographer/) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+- [OctoMap](https://github.com/OctoMap/octomap) - An Efficient Probabilistic 3D Mapping Framework Based on Octrees. Contains the main OctoMap library, the viewer octovis, and dynamicEDT3D.
+- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities.
