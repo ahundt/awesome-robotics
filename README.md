@@ -9,19 +9,20 @@ Simulators
 - [Bullet Physics SDK](https://github.com/bulletphysics/bullet3) - Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc. Also see [pybullet](pybullet.org).
 
 Machine Learning
-================
+----------------
 
 - [Keras](keras.io) - Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on TensorFlow or Theano.
 - [keras-contrib](https://github.com/farizrahman4u/keras-contrib) - Keras community contributions.
 - [TensorFlow](tensorflow.org) - An open-source software library for Machine Intelligence.
 - [recurrentshop](https://github.com/datalogai/recurrentshop) - Framework for building complex recurrent neural networks with Keras.
 - [tensorpack](https://github.com/ppwwyyxx/tensorpack) - Neural Network Toolbox on TensorFlow.
+- [tensorlayer](https://github.com/zsdonghao/tensorlayer) - Deep Learning and Reinforcement Learning Library for Researchers and Engineers.
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for beginners.
 - [hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization.
 - [elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark
 - [PipelineAI](https://github.com/fluxcapacitor/pipeline) - End-to-End ML and AI Platform for Real-time Spark and Tensorflow Data Pipelines.
 
-Image Segmentation
-------------------
+### Image Segmentation
 
 - [tf-image-segmentation](https://github.com/warmspringwinds/tf-image-segmentation) - Image Segmentation framework based on Tensorflow and TF-Slim library.
 - [Keras-FCN](https://github.com/aurora95/Keras-FCN)
@@ -38,6 +39,7 @@ Tracking
 
 - [simtrack](https://github.com/karlpauwels/simtrack) - A simulation-based framework for tracking.
 - [ar_track_alvar](https://github.com/sniekum/ar_track_alvar) - AR tag tracking library for ROS.
+- [artoolkit5](https://github.com/artoolkit/artoolkit5) - Augmented Reality Toolkit.
 
 Robot Operating System (ROS)
 ----------------------------
@@ -71,6 +73,10 @@ Reinforcement Learning
 
 - [Guided Policy Search](https://github.com/cbfinn/gps) - Guided policy search (gps) algorithm and LQG-based trajectory optimization, meant to help others understand, reuse, and build upon existing work. 
 
+Video/Display/Rendering
+-----------------------
+
+ - [Pangolin](https://github.com/stevenlovegrove/Pangolin) - A lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 
 Sensors
 -------
@@ -82,4 +88,11 @@ Datasets
 --------
 
 - [openimages](https://github.com/openimages/dataset/)
+
+
+Geometry
+--------
+
+- [Boost.QVM](https://github.com/boostorg/qvm) - Quaternions, Vectors, Matrices library for Boost.
+
 
