@@ -7,3 +7,4 @@ Interesting things not yet on the awesome list or no longer actively developed.
 - [Teaching Robotics with a Simulator](https://github.com/ULgRobotics/trs) - TRS: An Open-source Recipe for Teaching/Learning Robotics with the V-REP Simulator.
 - [dataset_loaders](https://github.com/fvisin/dataset_loaders) - Load a variety of video and segmentation datasets in python for machine learning.
 - [ros-tag-tracking](https://github.com/ablarry91/ros-tag-tracking) - Evaluates three different ROS tag tracking packages.
+- [gym-gazebo](https://github.com/erlerobot/gym-gazebo) - Simulator for reinforcement learning algorithms using ROS and Gazebo.
