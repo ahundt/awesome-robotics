@@ -12,6 +12,8 @@ Simulators
 Machine Learning
 ----------------
 
+### TensorFlow related
+
 - [Keras](keras.io) - Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on TensorFlow or Theano.
 - [keras-contrib](https://github.com/farizrahman4u/keras-contrib) - Keras community contributions.
 - [TensorFlow](tensorflow.org) - An open-source software library for Machine Intelligence.
@@ -22,8 +24,9 @@ Machine Learning
 - [hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization.
 - [elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark
 - [PipelineAI](https://github.com/fluxcapacitor/pipeline) - End-to-End ML and AI Platform for Real-time Spark and Tensorflow Data Pipelines.
+- [sonnet](https://github.com/deepmind/sonnet)
 
-### Image Segmentation
+#### Image Segmentation
 
 - [tf-image-segmentation](https://github.com/warmspringwinds/tf-image-segmentation) - Image Segmentation framework based on Tensorflow and TF-Slim library.
 - [Keras-FCN](https://github.com/aurora95/Keras-FCN)
