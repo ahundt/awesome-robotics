@@ -82,6 +82,7 @@ Geometry
 --------
 
 - [Boost.QVM](https://github.com/boostorg/qvm) - Quaternions, Vectors, Matrices library for Boost.
+- [Boost.Geometry](https://github.com/boostorg/geometry/) - Boost.Geometry contains instantiable geometry classes, but library users can also use their own.
 
 
 Point Clouds
