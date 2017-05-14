@@ -8,4 +8,7 @@ Papers and implementations of papers that could have use in robotics. Implementa
 - [train-CRF-RNN](https://github.com/martinkersner/train-CRF-RNN) - Training scripts for [CRF-RNN for Semantic Image Segmentation](https://github.com/torrvision/crfasrnn).
 - [train-DeepLab](https://github.com/martinkersner/train-DeepLab) - Scripts for training [DeepLab for Semantic Image Segmentation](https://bitbucket.org/deeplab/deeplab-public) using [strongly](https://github.com/martinkersner/train-DeepLab#strong-annotations) and [weakly annotated data](https://github.com/martinkersner/train-DeepLab#weak-annotations). [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](http://arxiv.org/abs/1412.7062) and [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](http://arxiv.org/abs/1502.02734) papers describe training procedure using strongly and weakly annotated data, respectively.
 - [text_objseg](https://github.com/ronghanghu/text_objseg) Segmentation from Natural Language Expressions
+- [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783), Asynchronous Advantage Actor Critic (A3C)
+    - [tensorpack/examples/A3C-Gym](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/A3C-Gym) Multi-GPU version of the A3C algorithm.
+    - [ga3c](https://github.com/NVlabs/GA3C) - Hybrid CPU/GPU implementation of the A3C algorithm for deep reinforcement learning.
 
