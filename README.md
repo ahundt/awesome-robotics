@@ -78,9 +78,10 @@ Datasets
 - [openimages](https://github.com/openimages/dataset/)
 
 
-Geometry
---------
+Linear Algebra & Geometry
+-------------------------
 
+- [Eigen](eigen.tuxfamily.org) - Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 - [Boost.QVM](https://github.com/boostorg/qvm) - Quaternions, Vectors, Matrices library for Boost.
 - [Boost.Geometry](https://github.com/boostorg/geometry/) - Boost.Geometry contains instantiable geometry classes, but library users can also use their own.
 
