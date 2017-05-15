@@ -80,8 +80,11 @@ Sensors
 Datasets
 --------
 
+- [pascal voc 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
 - [openimages](https://github.com/openimages/dataset/)
-
+- [coco](mscoco.org)
+- [cocostuff](https://github.com/nightrome/cocostuff)
+- [brainrobotdata](https://sites.google.com/site/brainrobotdata/home)
 
 Linear Algebra & Geometry
 -------------------------
