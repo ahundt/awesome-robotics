@@ -9,3 +9,4 @@ Interesting things not yet on the awesome list or no longer actively developed.
 - [ros-tag-tracking](https://github.com/ablarry91/ros-tag-tracking) - Evaluates three different ROS tag tracking packages.
 - [gym-gazebo](https://github.com/erlerobot/gym-gazebo) - Simulator for reinforcement learning algorithms using ROS and Gazebo.
 - [neuralnets](https://github.com/mzaradzki/neuralnets) - Deep Learning libraries tested on images and time series, keras, theano, tensorflow.
+- [OpenSurfaces](https://github.com/seanbell/opensurfaces) - Crowdsourcing pipeline and website for OpenSurfaces [SIG '13] and Intrinsic Images in the Wild [SIG '14].
