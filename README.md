@@ -50,6 +50,7 @@ Tracking
 Robot Operating System (ROS)
 ----------------------------
 
+- [ROS](ros.org) - Main ROS website.
 - [ros2/design](https://github.com/ros2/design) - Design documentation for ROS 2.0 effort.
 
 
@@ -74,17 +75,17 @@ Video/Display/Rendering
 Sensors
 -------
 
+- [libfreenect2](https://github.com/OpenKinect/libfreenect2) - Open source drivers for the Kinect for Windows v2 and Xbox One devices.
 - [iai_kinect2](https://github.com/code-iai/iai_kinect2) - Tools for using the Kinect One (Kinect v2) in ROS.
-
 
 Datasets
 --------
 
-- [pascal voc 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
-- [openimages](https://github.com/openimages/dataset/)
-- [coco](mscoco.org)
-- [cocostuff](https://github.com/nightrome/cocostuff)
-- [brainrobotdata](https://sites.google.com/site/brainrobotdata/home)
+- [pascal voc 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) - The classic reference image segmentation dataset.
+- [openimages](https://github.com/openimages/dataset/) - Huge imagenet style dataset by Google.
+- [COCO](mscoco.org) - Objects with segmentation, keypoints, and links to many other external datasets.
+- [cocostuff](https://github.com/nightrome/cocostuff) - COCO additional full scene segmentation including backgrounds.
+- [Google Brain Robot Data](https://sites.google.com/site/brainrobotdata/home) - Robotics datasets including grasping, pushing, and pouring.
 
 Linear Algebra & Geometry
 -------------------------
