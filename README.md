@@ -12,8 +12,8 @@ Relevant Awesome Lists
 - [Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) - Another list of awesome robotics libraries.
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
-	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
-	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
+    - [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
+    - [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 Simulators
@@ -98,6 +98,7 @@ Datasets
 - [COCO](mscoco.org) - Objects with segmentation, keypoints, and links to many other external datasets.
 - [cocostuff](https://github.com/nightrome/cocostuff) - COCO additional full scene segmentation including backgrounds.
 - [Google Brain Robot Data](https://sites.google.com/site/brainrobotdata/home) - Robotics datasets including grasping, pushing, and pouring.
+- [Materials in Context](http://opensurfaces.cs.cornell.edu/publications/minc/) - Materials Dataset with real world images in 23 categories.
 
 Linear Algebra & Geometry
 -------------------------
