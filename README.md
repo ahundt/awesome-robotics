@@ -96,9 +96,13 @@ Datasets
 - [pascal voc 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) - The classic reference image segmentation dataset.
 - [openimages](https://github.com/openimages/dataset/) - Huge imagenet style dataset by Google.
 - [COCO](mscoco.org) - Objects with segmentation, keypoints, and links to many other external datasets.
-- [cocostuff](https://github.com/nightrome/cocostuff) - COCO additional full scene segmentation including backgrounds.
+- [cocostuff](https://github.com/nightrome/cocostuff) - COCO additional full scene segmentation including backgrounds and annotator.
 - [Google Brain Robot Data](https://sites.google.com/site/brainrobotdata/home) - Robotics datasets including grasping, pushing, and pouring.
 - [Materials in Context](http://opensurfaces.cs.cornell.edu/publications/minc/) - Materials Dataset with real world images in 23 categories.
+
+#### Dataset Collection
+
+- [cocostuff](https://github.com/nightrome/cocostuff) - COCO additional full scene segmentation including backgrounds and annotator.
 
 Linear Algebra & Geometry
 -------------------------
