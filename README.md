@@ -9,9 +9,12 @@ Relevant Awesome Lists
 ----------------------
 
 - [Kiloreaux/awesome-robotics](https://github.com/Kiloreux/awesome-robotics) - Learn about Robotics.
-- [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - Another list of awesome robotics libraries.
-- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-
+- [Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) - Another list of awesome robotics libraries.
+- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
+	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
+	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
+- [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 Simulators
 ----------
