@@ -2,7 +2,16 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome links and software libraries that are useful for robots. To learn about Robotics see [Kiloreaux/awesome-robotics](https://github.com/Kiloreux/awesome-robotics).
+Awesome links and software libraries that are useful for robots.
+
+
+Relevant Awesome Lists
+----------------------
+
+- [Kiloreaux/awesome-robotics](https://github.com/Kiloreux/awesome-robotics) - Learn about Robotics.
+- [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - Another list of awesome robotics libraries.
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
 
 Simulators
 ----------
