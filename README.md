@@ -70,6 +70,7 @@ Kinematics, Dynamics, Constrained Optimization
 ----------------------------------------------
 
 - [jrl-umi3218/Tasks](https://github.com/jrl-umi3218/Tasks) - Tasks is library for real time control of robots and kinematic trees using constrained optimization.
+- [jrl-umi3218/RBDyn](https://github.com/jrl-umi3218/RBDyn) - RBDyn provide a set of classes and functions to model the dynamics of rigid body system.
 - [ceres-solver](https://github.com/ceres-solver/ceres-solver) - Solve Non-linear Least Squares problems with bounds constraints and general unconstrained optimization problems. Used in production at Google since 2010.
 - [orocos_kinematics_dynamics](https://github.com/orocos/orocos_kinematics_dynamics) - Orocos Kinematics and Dynamics C++ library.
 - [flexible-collsion-library](https://github.com/flexible-collision-library/fcl) - Performs three types of proximity queries on a pair of geometric models composed of triangles, integrated with ROS. 
@@ -110,6 +111,8 @@ Linear Algebra & Geometry
 - [Eigen](eigen.tuxfamily.org) - Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 - [Boost.QVM](https://github.com/boostorg/qvm) - Quaternions, Vectors, Matrices library for Boost.
 - [Boost.Geometry](https://github.com/boostorg/geometry/) - Boost.Geometry contains instantiable geometry classes, but library users can also use their own.
+- [SpaceVecAlg](https://github.com/jrl-umi3218/SpaceVecAlg) - Implementation of spatial vector algebra for 3D geometry with the Eigen3 linear algebra library.
+- [Sophus](https://github.com/strasdat/Sophus) - C++ implementation of Lie Groups which are for 3D Geometry, using Eigen.
 
 
 Point Clouds
