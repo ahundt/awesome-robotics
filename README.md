@@ -57,7 +57,7 @@ Robot Operating System (ROS)
 Kinematics, Dynamics, Constrained Optimization
 ----------------------------------------------
 
-- [jrl-umi3218/Tasks](https://github.com/jrl-umi3218/Tasks)- Tasks is library for real time control of robots and kinematic trees using constrained optimization.
+- [jrl-umi3218/Tasks](https://github.com/jrl-umi3218/Tasks) - Tasks is library for real time control of robots and kinematic trees using constrained optimization.
 - [ceres-solver](https://github.com/ceres-solver/ceres-solver)
 - [orocos_kinematics_dynamics](https://github.com/orocos/orocos_kinematics_dynamics) - Orocos Kinematics and Dynamics C++ library.
 - [flexible-collsion-library](https://github.com/flexible-collision-library/fcl) - Performs three types of proximity queries on a pair of geometric models composed of triangles, integrated with ROS. 
