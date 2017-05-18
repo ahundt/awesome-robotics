@@ -45,7 +45,7 @@ Tracking
 
 - [simtrack](https://github.com/karlpauwels/simtrack) - A simulation-based framework for tracking.
 - [ar_track_alvar](https://github.com/sniekum/ar_track_alvar) - AR tag tracking library for ROS.
-- [artoolkit5](https://github.com/artoolkit/artoolkit5) - Augmented Reality Toolkit.
+- [artoolkit5](https://github.com/artoolkit/artoolkit5) - Augmented Reality Toolkit, which has excellent AR tag tracking software.
 
 Robot Operating System (ROS)
 ----------------------------
