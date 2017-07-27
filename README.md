@@ -76,6 +76,13 @@ Kinematics, Dynamics, Constrained Optimization
 - [flexible-collsion-library](https://github.com/flexible-collision-library/fcl) - Performs three types of proximity queries on a pair of geometric models composed of triangles, integrated with ROS. 
 - [robot_calibration](https://github.com/mikeferguson/robot_calibration) - generic robot kinematics calibration for ROS
 
+Calibration
+-----------
+
+- [handeye-calib-camodocal](https://github.com/jhu-lcsr/handeye_calib_camodocal) - generic robot hand-eye calibration.
+- [robot_calibration](https://github.com/mikeferguson/robot_calibration) - generic robot kinematics calibration for ROS
+- [kalibr](https://github.com/ethz-asl/kalibr) - camera and imu calibration for ROS
+
 Reinforcement Learning
 ----------------------
 
@@ -86,11 +93,12 @@ Video/Display/Rendering
 
  - [Pangolin](https://github.com/stevenlovegrove/Pangolin) - A lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 
-Sensors
--------
+Drivers for Sensors, Devices and Arms
+-------------------------------------
 
 - [libfreenect2](https://github.com/OpenKinect/libfreenect2) - Open source drivers for the Kinect for Windows v2 and Xbox One devices.
 - [iai_kinect2](https://github.com/code-iai/iai_kinect2) - Tools for using the Kinect One (Kinect v2) in ROS.
+- [grl](https://github.com/ahundt/grl) - Generic Robotics Library: Cross platform drivers for Kuka iiwa and Atracsys FusionTrack with optional v-rep and ros drivers. Also has cross platform Hand Eye Calibration and Tool Tip Calibration.
 
 Datasets
 --------
