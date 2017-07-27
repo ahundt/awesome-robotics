@@ -74,7 +74,7 @@ Kinematics, Dynamics, Constrained Optimization
 - [ceres-solver](https://github.com/ceres-solver/ceres-solver) - Solve Non-linear Least Squares problems with bounds constraints and general unconstrained optimization problems. Used in production at Google since 2010.
 - [orocos_kinematics_dynamics](https://github.com/orocos/orocos_kinematics_dynamics) - Orocos Kinematics and Dynamics C++ library.
 - [flexible-collsion-library](https://github.com/flexible-collision-library/fcl) - Performs three types of proximity queries on a pair of geometric models composed of triangles, integrated with ROS. 
-- [robot_calibration](https://github.com/mikeferguson/robot_calibration) generic robot kinematics calibration for ROS
+- [robot_calibration](https://github.com/mikeferguson/robot_calibration) - generic robot kinematics calibration for ROS
 
 Reinforcement Learning
 ----------------------
