@@ -109,6 +109,7 @@ Datasets
 - [cocostuff](https://github.com/nightrome/cocostuff) - COCO additional full scene segmentation including backgrounds and annotator.
 - [Google Brain Robot Data](https://sites.google.com/site/brainrobotdata/home) - Robotics datasets including grasping, pushing, and pouring.
 - [Materials in Context](http://opensurfaces.cs.cornell.edu/publications/minc/) - Materials Dataset with real world images in 23 categories.
+- [Dex-Net 2.0](http://bair.berkeley.edu/blog/2017/06/27/dexnet-2.0/) - 6.7 million pairs of synthetic point clouds and grasps with robustness labels.
 
 #### Dataset Collection
 
