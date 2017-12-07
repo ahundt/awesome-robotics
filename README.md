@@ -86,6 +86,7 @@ Calibration
 Reinforcement Learning
 ----------------------
 
+- [gqcnn](https://github.com/BerkeleyAutomation/gqcnn) -  [Grasp Quality Convolutional Neural Networks (GQ-CNNs)](https://berkeleyautomation.github.io/gqcnn/info/info.html) for grasp planning using training datasets from the [Dexterity Network (Dex-Net)](https://berkeleyautomation.github.io/dex-net)
 - [Guided Policy Search](https://github.com/cbfinn/gps) - Guided policy search (gps) algorithm and LQG-based trajectory optimization, meant to help others understand, reuse, and build upon existing work. 
 
 Video/Display/Rendering
