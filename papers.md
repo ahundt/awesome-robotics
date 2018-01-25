@@ -3,7 +3,7 @@ Awesome Papers
 
 Papers and implementations of papers that could have use in robotics. Implementations here may not be actively developed. While implementations may often be the author's original implementation, that isn't always the case.
 
-
+- [Bounding Box Detection Accuracy Tradeoffs](https://arxiv.org/pdf/1611.10012.pdf) - Speed/accuracy trade-offs for modern convolutional object detectors
 - [pointnet++](https://github.com/charlesq34/pointnet2) - [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](http://stanford.edu/~rqi/pointnet2/)
 - [DA-RNN](https://github.com/yuxng/DA-RNN) - Semantic Mapping with Data Associated Recurrent Neural Networks
 - [rpg_open_remode](https://github.com/uzh-rpg/rpg_open_remode) - This repository contains an implementation of REMODE ([REgularized MOnocular Depth Estimation](http://rpg.ifi.uzh.ch/docs/ICRA14_Pizzoli.pdf)).
@@ -14,4 +14,15 @@ Papers and implementations of papers that could have use in robotics. Implementa
 - [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783), Asynchronous Advantage Actor Critic (A3C)
     - [tensorpack/examples/A3C-Gym](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/A3C-Gym) - Multi-GPU version of the A3C algorithm.
     - [ga3c](https://github.com/NVlabs/GA3C) - Hybrid CPU/GPU implementation of the A3C algorithm for deep reinforcement learning.
+
+Robotic Grasping
+--------
+
+- [Real-Time Grasp Detection Using Convolutional Neural Networks](https://arxiv.org/pdf/1412.3128.pdf) - (2015)
+- [Dex-Net 2.0](https://arxiv.org/pdf/1703.09312.pdf) - Dex-Net 2.0: Deep Learning to Plan Robust
+Grasps with Synthetic Point Clouds and Analytic Grasp Metrics
+- [Multi-task Domain Adaptation for Deep Learning of Instance Grasping from Simulation](https://arxiv.org/pdf/1710.06422.pdf) - (2017)
+- [End-to-End Learning of Semantic Grasping](https://arxiv.org/pdf/1707.01932.pdf) - Paper from google, uses hand eye coordination methods + classification of what object would be grasped
+- [Robotic Grasp Detection using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1412.3128.pdf) - (2017) uses 2 resnets
+- 
 
