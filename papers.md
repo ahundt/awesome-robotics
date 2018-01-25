@@ -22,5 +22,5 @@ Papers and implementations of papers that could have use in robotics. Implementa
 Grasps with Synthetic Point Clouds and Analytic Grasp Metrics
 - [Multi-task Domain Adaptation for Deep Learning of Instance Grasping from Simulation](https://arxiv.org/pdf/1710.06422.pdf) - (2017)
 - [End-to-End Learning of Semantic Grasping](https://arxiv.org/pdf/1707.01932.pdf) - Paper from google, uses hand eye coordination methods + classification of what object would be grasped
-- [Robotic Grasp Detection using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1412.3128.pdf) - (2017) uses 2 resnets
+- [Robotic Grasp Detection using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1611.08036.pdf) - (2017) uses 2 resnets
 
