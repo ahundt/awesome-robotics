@@ -15,6 +15,7 @@ Relevant Awesome Lists
     - [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
     - [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+- [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 
 Simulators
 ----------
@@ -22,6 +23,13 @@ Simulators
 - [V-REP](coppeliarobotics.com/index.html) - Create, Simulate, any Robot.
 - [Microsoft Airsim](https://github.com/Microsoft/AirSim) - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research.
 - [Bullet Physics SDK](https://github.com/bulletphysics/bullet3) - Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc. Also see [pybullet](pybullet.org).
+
+Visualization, Video, Display, and Rendering
+-----------------------
+
+ - [Pangolin](https://github.com/stevenlovegrove/Pangolin) - A lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
+- [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - Quickly plot and re-plot data on the fly! Includes optional ROS integration.
+- [Data Visualization](https://github.com/fasouto/awesome-dataviz) - A list of awesome data visualization tools.
 
 Machine Learning
 ----------------
@@ -86,13 +94,9 @@ Calibration
 Reinforcement Learning
 ----------------------
 
+- [TensorForce](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning
 - [gqcnn](https://github.com/BerkeleyAutomation/gqcnn) -  [Grasp Quality Convolutional Neural Networks (GQ-CNNs)](https://berkeleyautomation.github.io/gqcnn/info/info.html) for grasp planning using training datasets from the [Dexterity Network (Dex-Net)](https://berkeleyautomation.github.io/dex-net)
 - [Guided Policy Search](https://github.com/cbfinn/gps) - Guided policy search (gps) algorithm and LQG-based trajectory optimization, meant to help others understand, reuse, and build upon existing work. 
-
-Video/Display/Rendering
------------------------
-
- - [Pangolin](https://github.com/stevenlovegrove/Pangolin) - A lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 
 Drivers for Sensors, Devices and Arms
 -------------------------------------
