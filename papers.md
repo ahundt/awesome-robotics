@@ -15,7 +15,7 @@ Papers and implementations of papers that could have use in robotics. Implementa
     - [tensorpack/examples/A3C-Gym](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/A3C-Gym) - Multi-GPU version of the A3C algorithm.
     - [ga3c](https://github.com/NVlabs/GA3C) - Hybrid CPU/GPU implementation of the A3C algorithm for deep reinforcement learning.
 
-## Robotic Grasping
+### Robotic Grasping
 
 - [Real-Time Grasp Detection Using Convolutional Neural Networks](https://arxiv.org/pdf/1412.3128.pdf) - (2015)
 - [Dex-Net 2.0](https://arxiv.org/pdf/1703.09312.pdf) - Dex-Net 2.0: Deep Learning to Plan Robust
