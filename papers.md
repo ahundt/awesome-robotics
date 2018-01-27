@@ -24,4 +24,4 @@ Grasps with Synthetic Point Clouds and Analytic Grasp Metrics
 - [End-to-End Learning of Semantic Grasping](https://arxiv.org/pdf/1707.01932.pdf) - Paper from google, uses hand eye coordination methods + classification of what object would be grasped
 - [Robotic Grasp Detection using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1611.08036.pdf) - (2017) uses 2 resnets
 - [Convolutional Residual Network for Grasp Localization](http://www2.ift.ulaval.ca/~pgiguere/papers/ResNetGraspCRV2017.pdf) - (2017) uses 1 resnet
-- [Supervision via Competition: Robot Adversaries for Learning Tasks](https://arxiv.org/pdf/1610.01685v1.pdf) - One robot holds an object and tries to make the object difficult to grasp. [Code to detect grasps with the trained model](https://github.com/lerrel/Grasp-Detector).
+- [Supervision via Competition: Robot Adversaries for Learning Tasks](https://arxiv.org/pdf/1610.01685v1.pdf) - (2017 with [Code](https://github.com/lerrel/Grasp-Detector)) One robot holds an object and tries to make the object difficult to grasp.
