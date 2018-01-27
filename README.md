@@ -47,6 +47,7 @@ Machine Learning
 - [elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark
 - [PipelineAI](https://github.com/fluxcapacitor/pipeline) - End-to-End ML and AI Platform for Real-time Spark and Tensorflow Data Pipelines.
 - [sonnet](https://github.com/deepmind/sonnet) - Google Deepmind APIs on top of TensorFlow.
+- [visipedia/tfrecords](https://github.com/visipedia/tfrecords) - Demonstrates the use of TensorFlow's TFRecord data format.
 
 #### Image Segmentation
 
