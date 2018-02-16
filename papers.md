@@ -25,3 +25,9 @@ Grasps with Synthetic Point Clouds and Analytic Grasp Metrics
 - [Robotic Grasp Detection using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1611.08036.pdf) - (2017) uses 2 resnets
 - [Convolutional Residual Network for Grasp Localization](http://www2.ift.ulaval.ca/~pgiguere/papers/ResNetGraspCRV2017.pdf) - (2017) uses 1 resnet
 - [Supervision via Competition: Robot Adversaries for Learning Tasks](https://arxiv.org/pdf/1610.01685v1.pdf) - (2017 with [Code](https://github.com/lerrel/Grasp-Detector)) One robot holds an object and tries to make the object difficult to grasp.
+
+#### Older papers useful as references for the above
+
+- [Deep Learning for Detecting Robotic Grasps](http://pr.cs.cornell.edu/papers/lenz_ijrr2014_deepgrasping.pdf) - (2014) Created the [Cornell Graping Dataset](http://pr.cs.cornell.edu/grasping/rect_data/data.php)
+- [Efficient Grasping from RGBD Images: Learning using a new
+Rectangle Representation](http://pr.cs.cornell.edu/grasping/jiang_rectanglerepresentation_fastgrasping.pdf) - (2011) Defines the rectangle representation utilized in many of the above grasping papers.
