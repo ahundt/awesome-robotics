@@ -48,6 +48,7 @@ Machine Learning
 - [PipelineAI](https://github.com/fluxcapacitor/pipeline) - End-to-End ML and AI Platform for Real-time Spark and Tensorflow Data Pipelines.
 - [sonnet](https://github.com/deepmind/sonnet) - Google Deepmind APIs on top of TensorFlow.
 - [visipedia/tfrecords](https://github.com/visipedia/tfrecords) - Demonstrates the use of TensorFlow's TFRecord data format.
+- [Golden TensorFlow page](https://golden.co/wiki/TensorFlow) - A page on TensorFlow, including academic papers and links to related topics. 
 
 #### Image Segmentation
 
