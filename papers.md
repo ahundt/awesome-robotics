@@ -3,7 +3,7 @@ Awesome Papers
 
 Papers and implementations of papers that could have use in robotics. Implementations here may not be actively developed. While implementations may often be the author's original implementation, that isn't always the case.
 
-- [Grasp2Vec: Learning Object Representations from Self-Supervised Grasping](https://sites.google.com/site/grasp2vec/) - 2018 - no implementation
+- [Grasp2Vec: Learning Object Representations from Self-Supervised Grasping](https://sites.google.com/site/grasp2vec/) - 2018 - ![poster](https://pbs.twimg.com/media/Dqk8oPfWsAA96eM.jpg) no implementation available
 - [Dense Object Nets: Learning Dense Visual Descriptors by and for Robotic Manipulation](https://github.com/RobotLocomotion/pytorch-dense-correspondence) - 2018
 - [Bounding Box Detection Accuracy Tradeoffs](https://arxiv.org/pdf/1611.10012.pdf) - Speed/accuracy trade-offs for modern convolutional object detectors
 - [pointnet++](https://github.com/charlesq34/pointnet2) - [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](http://stanford.edu/~rqi/pointnet2/)
