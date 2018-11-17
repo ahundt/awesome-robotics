@@ -110,6 +110,7 @@ Datasets
 --------
 
 - [CoSTAR Block Stacking Dataset](https://sites.google.com/site/costardataset) - Robot stacking colored children's blocks (disclaimer: created by @ahundt)
+- [shapestacks](http://shapestacks.robots.ox.ac.uk/#paper) - simulated stacks of colored children's objects
 - [pascal voc 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) - The classic reference image segmentation dataset.
 - [openimages](https://github.com/openimages/dataset/) - Huge imagenet style dataset by Google.
 - [COCO](mscoco.org) - Objects with segmentation, keypoints, and links to many other external datasets.
