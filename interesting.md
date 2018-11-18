@@ -11,3 +11,4 @@ Interesting things not yet on the awesome list or no longer actively developed.
 - [neuralnets](https://github.com/mzaradzki/neuralnets) - Deep Learning libraries tested on images and time series, keras, theano, tensorflow.
 - [OpenSurfaces](https://github.com/seanbell/opensurfaces) - Crowdsourcing pipeline and website for OpenSurfaces [SIG '13] and Intrinsic Images in the Wild [SIG '14].
 - [G3DB](https://uwaterloo.ca/neurorobotics-lab/g3db) - Simulated grasping dataset.
+- [MIME dataset](https://sites.google.com/view/mimedataset/people?authuser=0) - 8k+ human and robot tasks recorded, but no license saying what you can do with it and only an overview readme, no detailed documentation... maybe it will improve eventually?
