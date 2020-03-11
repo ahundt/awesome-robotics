@@ -84,6 +84,7 @@ Kinematics, Dynamics, Constrained Optimization
 - [orocos_kinematics_dynamics](https://github.com/orocos/orocos_kinematics_dynamics) - Orocos Kinematics and Dynamics C++ library.
 - [flexible-collsion-library](https://github.com/flexible-collision-library/fcl) - Performs three types of proximity queries on a pair of geometric models composed of triangles, integrated with ROS. 
 - [robot_calibration](https://github.com/mikeferguson/robot_calibration) - generic robot kinematics calibration for ROS
+- [RBDL](https://github.com/rbdl/rbdl) - the Rigid Body Dynamics Libray. C++ libray for both forward and inverse dynamics and kinematics including contacts and loops.
 
 Calibration
 -----------
