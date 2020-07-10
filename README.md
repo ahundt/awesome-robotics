@@ -10,6 +10,7 @@ Relevant Awesome Lists
 
 - [Kiloreaux/awesome-robotics](https://github.com/Kiloreux/awesome-robotics) - Learn about Robotics.
 - [Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) - Another list of awesome robotics libraries.
+- [Robotics Coursework](https://github.com/mithi/robotics-coursework) - A list of robotics courses you can take online
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
     - [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
@@ -23,6 +24,7 @@ Simulators
 - [V-REP](coppeliarobotics.com/index.html) - Create, Simulate, any Robot.
 - [Microsoft Airsim](https://github.com/Microsoft/AirSim) - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research.
 - [Bullet Physics SDK](https://github.com/bulletphysics/bullet3) - Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc. Also see [pybullet](https://pybullet.org).
+- [Hexapod Robot Simulator](https://github.com/mithi/hexapod) - Open source hexapod robot kinematics, inverse kinematics, and gaits visualizer for the web
 
 Visualization, Video, Display, and Rendering
 -----------------------
