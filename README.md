@@ -121,7 +121,7 @@ Datasets
 - [Dex-Net 2.0](http://bair.berkeley.edu/blog/2017/06/27/dexnet-2.0/) - 6.7 million pairs of synthetic point clouds and grasps with robustness labels.
 
 #### Dataset Collection
-
+- [LabelFusion](labelfusion.csail.mit.edu) - "A Pipeline for Generating Ground Truth Labels for Real RGBD Data of Cluttered Scenes" [code](https://github.com/RobotLocomotion/LabelFusion)
 - [cocostuff](https://github.com/nightrome/cocostuff) - COCO additional full scene segmentation including backgrounds and annotator.
 
 Linear Algebra & Geometry
