@@ -2,6 +2,7 @@ Awesome Papers
 --------------
 
 Papers and implementations of papers that could have use in robotics. Implementations here may not be actively developed. While implementations may often be the author's original implementation, that isn't always the case.
+- ["Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer](https://github.com/jhu-lcsr/good_robot) - Real robot learns to complete multi-step tasks like table clearing, making stacks, and making rows in <20k simulated actions. [paper](https://arxiv.org/abs/1909.11730) (disclaimer: @ahundt is first author)
 - [Self-Supervised Correspondence in Visuomotor Policy Learning](https://arxiv.org/abs/1909.06933) - 2019 - [video](https://youtu.be/nDRBKb4AGmA)
 - [Grasp2Vec: Learning Object Representations from Self-Supervised Grasping](https://sites.google.com/site/grasp2vec/) - 2018 - ![poster](https://pbs.twimg.com/media/Dqk8oPfWsAA96eM.jpg) no implementation available
 - [Dense Object Nets: Learning Dense Visual Descriptors by and for Robotic Manipulation](https://github.com/RobotLocomotion/pytorch-dense-correspondence) - 2018 ![object feature gif](https://github.com/RobotLocomotion/pytorch-dense-correspondence/blob/master/doc/shoes_trim.gif)
