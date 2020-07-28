@@ -95,7 +95,7 @@ Calibration
 Reinforcement Learning
 ----------------------
 
-- ["Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer](https://github.com/jhu-lcsr/good_robot) - *Full disclosure:* Andrew Hundt is an author of the paper, code, and this awesome-robotics list. 
+- ["Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer](https://github.com/jhu-lcsr/good_robot) - Real robots complete multi-step tasks like table clearing, making stacks, and making rows. (disclaimer: created by @ahundt)
 - [TensorForce](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning
 - [gqcnn](https://github.com/BerkeleyAutomation/gqcnn) -  [Grasp Quality Convolutional Neural Networks (GQ-CNNs)](https://berkeleyautomation.github.io/gqcnn/info/info.html) for grasp planning using training datasets from the [Dexterity Network (Dex-Net)](https://berkeleyautomation.github.io/dex-net)
 - [Guided Policy Search](https://github.com/cbfinn/gps) - Guided policy search (gps) algorithm and LQG-based trajectory optimization, meant to help others understand, reuse, and build upon existing work. 
