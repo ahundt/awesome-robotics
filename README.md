@@ -128,6 +128,7 @@ Datasets
 Linear Algebra & Geometry
 -------------------------
 
+- [Pytorch3D](https://github.com/facebookresearch/pytorch3d) - efficient, reusable components for 3D Computer Vision research with PyTorch.
 - [Eigen](http://eigen.tuxfamily.org) - Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 - [Boost.QVM](https://github.com/boostorg/qvm) - Quaternions, Vectors, Matrices library for Boost.
 - [Boost.Geometry](https://github.com/boostorg/geometry/) - Boost.Geometry contains instantiable geometry classes, but library users can also use their own.
@@ -146,6 +147,7 @@ Point Clouds
 Simultaneous Localization and Mapping (SLAM)
 --------------------------------------------
 
+- [grandslam](https://github.com/gradslam/gradslam) - gradslam is a fully differentiable dense SLAM framework with PyTorch.
 - [ElasticFusion](https://github.com/mp3guy/ElasticFusion) - Real-time dense visual SLAM system.
 - [co-fusion](https://github.com/martinruenz/co-fusion) - Real-time Segmentation, Tracking and Fusion of Multiple Objects. Extends ElasticFusion.
 - [Google Cartographer](https://github.com/googlecartographer/cartographer/) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
