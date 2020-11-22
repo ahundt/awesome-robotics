@@ -17,6 +17,7 @@ Relevant Awesome Lists
     - [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - Deep learning for computer vision
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz) - See what your robot is doing with any programming language.
+- [paperswithcode state of the art](https://paperswithcode.com/sota) - List of state of the art results on various machine learning benchmarks.
 
 Simulators
 ----------
