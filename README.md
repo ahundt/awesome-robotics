@@ -129,7 +129,6 @@ Datasets
 Linear Algebra & Geometry
 -------------------------
 
-- [Pytorch3D](https://github.com/facebookresearch/pytorch3d) - efficient, reusable components for 3D Computer Vision research with PyTorch.
 - [Eigen](http://eigen.tuxfamily.org) - Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 - [Boost.QVM](https://github.com/boostorg/qvm) - Quaternions, Vectors, Matrices library for Boost.
 - [Boost.Geometry](https://github.com/boostorg/geometry/) - Boost.Geometry contains instantiable geometry classes, but library users can also use their own.
