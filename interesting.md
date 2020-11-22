@@ -3,6 +3,7 @@ Interesting Robotics
 
 Interesting things not yet on the awesome list or no longer actively developed.
 
+- [grandslam](https://github.com/gradslam/gradslam) - gradslam is a fully differentiable dense SLAM framework with PyTorch. No live image streams as of 2020-11-22.
 - [keras-finetuning](https://github.com/danielvarga/keras-finetuning) - Fine-tune InceptionV3 on your own data and try out on a webcam, plus use apple photos for labeling.
 - [Teaching Robotics with a Simulator](https://github.com/ULgRobotics/trs) - TRS: An Open-source Recipe for Teaching/Learning Robotics with the V-REP Simulator.
 - [dataset_loaders](https://github.com/fvisin/dataset_loaders) - Load a variety of video and segmentation datasets in python for machine learning.
