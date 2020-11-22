@@ -147,7 +147,6 @@ Point Clouds
 Simultaneous Localization and Mapping (SLAM)
 --------------------------------------------
 
-- [grandslam](https://github.com/gradslam/gradslam) - gradslam is a fully differentiable dense SLAM framework with PyTorch.
 - [ElasticFusion](https://github.com/mp3guy/ElasticFusion) - Real-time dense visual SLAM system.
 - [co-fusion](https://github.com/martinruenz/co-fusion) - Real-time Segmentation, Tracking and Fusion of Multiple Objects. Extends ElasticFusion.
 - [Google Cartographer](https://github.com/googlecartographer/cartographer/) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
