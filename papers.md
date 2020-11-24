@@ -3,7 +3,9 @@ Awesome Papers
 
 Papers and implementations of papers that could have use in robotics. Implementations here may not be actively developed. While implementations may often be the author's original implementation, that isn't always the case.
 - ["Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer](https://github.com/jhu-lcsr/good_robot) - 2020 - Real robot learns to complete multi-step tasks like table clearing, making stacks, and making rows in <20k simulated actions. [paper](https://arxiv.org/abs/1909.11730) (disclaimer: @ahundt is first author) 
+
 [!["Good Robot!": Efficient Reinforcement Learning for Multi Step Visual Tasks via Reward Shaping](https://img.youtube.com/vi/MbCuEZadkIw/0.jpg)](https://youtu.be/MbCuEZadkIw)
+
 - [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://transporternets.github.io/), [Ravens Simulator github](https://github.com/google-research/google-research/tree/master/ravens) - 2020 - Ravens is a collection of simulated tasks in PyBullet for learning vision-based robotic manipulation, with emphasis on pick and place. It features a Gym-like API with 10 tabletop rearrangement tasks, each with (i) a scripted oracle that provides expert demonstrations (for imitation learning), and (ii) reward functions that provide partial credit (for reinforcement learning).
 - [Concept2Robot: Learning Manipulation Concepts from Instructions and Human Demonstrations](https://sites.google.com/view/concept2robot) - 2020 - Language + BERT to robot actions, code TBD, pybullet sim
 - [CURL: Contrastive Unsupervised Representations for RL](https://arxiv.org/abs/2004.04136) - 2020 - We use the simplest form of contrastive learning (instance-based) as an auxiliary task in model-free RL. SoTA by significant margin on DMControl and Atari for data-efficiency. 
