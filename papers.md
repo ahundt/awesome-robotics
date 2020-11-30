@@ -39,3 +39,13 @@ Grasps with Synthetic Point Clouds and Analytic Grasp Metrics
 - [Deep Learning for Detecting Robotic Grasps](http://pr.cs.cornell.edu/papers/lenz_ijrr2014_deepgrasping.pdf) - (2014) Created the [Cornell Graping Dataset](http://pr.cs.cornell.edu/grasping/rect_data/data.php)
 - [Efficient Grasping from RGBD Images: Learning using a new
 Rectangle Representation](http://pr.cs.cornell.edu/grasping/jiang_rectanglerepresentation_fastgrasping.pdf) - (2011) Defines the rectangle representation utilized in many of the above grasping papers.
+
+
+## Reinforcement learning (including non-robotics)
+
+- [Acme: A Research Framework for Distributed Reinforcement Learning](https://arxiv.org/abs/2006.00979) - 2020 - Deepmind
+- [RECURRENT EXPERIENCE REPLAY IN DISTRIBUTED REINFORCEMENT LEARNING](https://openreview.net/pdf?id=r1lyTjAqYX) - 2019 - Recurrent Replay Distributed DQN (R2D2) - Deepmind
+- [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/pdf/2006.13888.pdf) - 2020 - Offline RL benchmark - Deepmind
+- [Making Efficient Use of Demonstrations to Solve Hard Exploration Problems](https://arxiv.org/pdf/1909.01387.pdf) - 2019 - R2D3 - Deepmind
+
+
