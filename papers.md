@@ -48,4 +48,6 @@ Rectangle Representation](http://pr.cs.cornell.edu/grasping/jiang_rectanglerepre
 - [RL Unplugged: Benchmarks for Offline Reinforcement Learning](https://arxiv.org/pdf/2006.13888.pdf) - 2020 - Offline RL benchmark - Deepmind
 - [Making Efficient Use of Demonstrations to Solve Hard Exploration Problems](https://arxiv.org/pdf/1909.01387.pdf) - 2019 - R2D3 - Deepmind
 
+## Language and Robots
 
+- [Concept2Robot: Learning Manipulation Concepts from Instructions and Human Demonstrations](http://www.roboticsproceedings.org/rss16/p082.pdf) - RSS2020
