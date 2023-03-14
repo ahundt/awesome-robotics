@@ -38,7 +38,7 @@ Machine Learning
 
 ### TensorFlow related
 
-- [Keras](keras.io) - Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on TensorFlow or Theano.
+- [Keras](https://keras.io) - Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on TensorFlow or Theano.
 - [keras-contrib](https://github.com/farizrahman4u/keras-contrib) - Keras community contributions.
 - [TensorFlow](tensorflow.org) - An open-source software library for Machine Intelligence.
 - [recurrentshop](https://github.com/datalogai/recurrentshop) - Framework for building complex recurrent neural networks with Keras.
