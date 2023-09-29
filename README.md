@@ -18,6 +18,7 @@ Relevant Awesome Lists
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - Deep learning for computer vision
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz) - See what your robot is doing with any programming language.
 - [paperswithcode state of the art](https://paperswithcode.com/sota) - List of state of the art results on various machine learning benchmarks.
+- [Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) - A curated list of awesome robot descriptions in URDF or MJCF formats.
 
 Simulators
 ----------
