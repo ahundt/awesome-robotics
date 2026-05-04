@@ -75,6 +75,7 @@ Robot Operating System (ROS)
 
 - [ROS](ros.org) - Main ROS website.
 - [ros2/design](https://github.com/ros2/design) - Design documentation for ROS 2.0 effort.
+- [ros2-agent / ROSIE](https://github.com/ros2-agent/ros2-agent) - LLM-powered agent to control, monitor, and debug ROS 2 robots in natural language. LangGraph-based, supports OpenAI, Anthropic, and Ollama. Install: pip install ros2-agent
 
 
 Kinematics, Dynamics, Constrained Optimization
