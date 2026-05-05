@@ -25,6 +25,7 @@ Simulators
 - [CoppeliaSim](coppeliarobotics.com/index.html) - Create, Simulate, any Robot. (formerly named V-REP)
 - [Microsoft Airsim](https://github.com/Microsoft/AirSim) - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research.
 - [Bullet Physics SDK](https://github.com/bulletphysics/bullet3) - Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc. Also see [pybullet](https://pybullet.org).
+- [ROS2IE](https://github.com/ActuallyIR/ROS2IE-AI) ROS2IE is an LLM-powered agent that lets you control, monitor, and debug ROS 2 robots using plain English. It wraps topics, services, nodes, params, logs, and launch files into natural-language tool calls via LangGraph.
 
 Visualization, Video, Display, and Rendering
 -----------------------
