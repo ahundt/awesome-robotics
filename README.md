@@ -76,6 +76,10 @@ Robot Operating System (ROS)
 - [ROS](ros.org) - Main ROS website.
 - [ros2/design](https://github.com/ros2/design) - Design documentation for ROS 2.0 effort.
 
+Communication & Middleware
+--------------------------
+
+- [ROS2 Hardware Bridge](https://github.com/EngineerAbdullahBinZafar/ros2-hardware-bridge) - A lightweight, plug-and-play serial bridge for ROS2 to STM32/ESP32 communication. Designed for real-time hardware interfacing without the complexity of micro-ROS.
 
 Kinematics, Dynamics, Constrained Optimization
 ----------------------------------------------
@@ -123,7 +127,6 @@ Datasets
 - [Materials in Context](http://opensurfaces.cs.cornell.edu/publications/minc/) - Materials Dataset with real world images in 23 categories.
 - [Dex-Net 2.0](http://bair.berkeley.edu/blog/2017/06/27/dexnet-2.0/) - 6.7 million pairs of synthetic point clouds and grasps with robustness labels.
 
-#### Dataset Collection
 - [LabelFusion](labelfusion.csail.mit.edu) - "A Pipeline for Generating Ground Truth Labels for Real RGBD Data of Cluttered Scenes" [code](https://github.com/RobotLocomotion/LabelFusion)
 - [cocostuff](https://github.com/nightrome/cocostuff) - COCO additional full scene segmentation including backgrounds and annotator.
 
