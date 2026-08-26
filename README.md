@@ -24,6 +24,7 @@ Simulators
 
 - [CoppeliaSim](coppeliarobotics.com/index.html) - Create, Simulate, any Robot. (formerly named V-REP)
 - [Microsoft Airsim](https://github.com/Microsoft/AirSim) - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research.
+- [OmniSim](https://github.com/omnilink-tech/omnisim) - Apache-2.0 robot simulator with URDF/STEP import, agent-facing HTTP/MCP control, a ROS 2 sidecar, synthetic-data capture, and reproducible capability benchmarks.
 - [Bullet Physics SDK](https://github.com/bulletphysics/bullet3) - Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc. Also see [pybullet](https://pybullet.org).
 
 Visualization, Video, Display, and Rendering
