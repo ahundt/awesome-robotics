@@ -10,6 +10,7 @@ Relevant Awesome Lists
 
 - [Kiloreaux/awesome-robotics](https://github.com/Kiloreux/awesome-robotics) - Learn about Robotics.
 - [Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) - Another list of awesome robotics libraries.
+- [awesome-jev](https://github.com/Promethe-us/awesome-jev) - A source-backed Jev / System One knowledge map with projects, papers, evaluation boundaries, and a dedicated robotics section.
 - [Robotics Coursework](https://github.com/mithi/robotics-coursework) - A list of robotics courses you can take online
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
