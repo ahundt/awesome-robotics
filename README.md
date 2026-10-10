@@ -18,6 +18,7 @@ Relevant Awesome Lists
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - Deep learning for computer vision
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz) - See what your robot is doing with any programming language.
 - [paperswithcode state of the art](https://paperswithcode.com/sota) - List of state of the art results on various machine learning benchmarks.
+- [Botstest](https://botstest.com/) - Categorized robotics and embodied-AI resource directory with links to original models, datasets, benchmarks and software.
 
 Simulators
 ----------
