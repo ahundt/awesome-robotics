@@ -66,6 +66,7 @@ Logging and Messaging
 Tracking
 --------
 
+- [Enpose](https://enpose.tech/en/) - A 6-DoF pose tracking system with sub-millimeter accuracy
 - [simtrack](https://github.com/karlpauwels/simtrack) - A simulation-based framework for tracking.
 - [ar_track_alvar](https://github.com/sniekum/ar_track_alvar) - AR tag tracking library for ROS.
 - [artoolkit5](https://github.com/artoolkit/artoolkit5) - Augmented Reality Toolkit, which has excellent AR tag tracking software.
