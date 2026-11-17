@@ -21,6 +21,7 @@ Relevant Awesome Lists
 
 Simulators
 ----------
+* [NEXUS-MM](https://nexusmm.site/) - Real-time robot physics validation API (speed × terrain → safety decision). Live free challenge key and SDK: https://github.com/AfricaAI348/nexus-mm-sdk
 
 - [CoppeliaSim](coppeliarobotics.com/index.html) - Create, Simulate, any Robot. (formerly named V-REP)
 - [Microsoft Airsim](https://github.com/Microsoft/AirSim) - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research.
